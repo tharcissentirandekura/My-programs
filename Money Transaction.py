@@ -1,6 +1,7 @@
 
-## Money Transaction program, you can send, pay things, and receive money, check balance left in your account as the mobile payment process
-print("....................IF YOU ARE NEW TO THIS SERVICE WE OFFER YOU A FREE SERVICE OF YOUR CHOICE BUT WE SPECIFICALLY ACCEPT THE FOLLOWING SERVICES: \n1. LUMICASH if you enter *163# \n2. CLIENTEL SERVICE if you enter *131# \n3. DEBT REQUEST if you enter *800*7# \n4. INSTRUCTION ABOUT THESE 3 SERVICES if you enter *100#..........!!!!\n")
+## Money Transaction program, you can send, pay things, and receive money, check the balance left in your account as the mobile payment process
+
+prints ("....................IF YOU ARE NEW TO THIS SERVICE WE OFFER YOU A FREE SERVICE OF YOUR CHOICE BUT WE SPECIFICALLY ACCEPT THE FOLLOWING SERVICES: \n1. LUMICASH if you enter *163# \n2. CLIENTEL SERVICE if you enter *131# \n3. DEBT REQUEST if you enter *800*7# \n4. INSTRUCTION ABOUT THESE 3 SERVICES if you enter *100#..........!!!!\n")
 
 amount_possessed = 1000000 ## amount of money possessed in the account.
 code = input("Enter the code of a service you want to request:")
